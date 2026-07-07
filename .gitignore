@@ -1,0 +1,31 @@
+# Virtual Environments
+venv/
+.venv/
+env/
+venv_anomalib21/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment Variables
+.env
+
+# Streamlit
+.streamlit/
+
+# Outputs
+outputs/
+
+# Models
+models/
+
+# Dataset
+datasets/
+
+# VS Code
+.vscode/
+
+# System Files
+.DS_Store
+Thumbs.db
