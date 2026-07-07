@@ -6,6 +6,11 @@ VisionInspect AI is an intelligent industrial quality inspection system that det
 
 ---
 
+## 🌐 Live Demo
+
+🔗 https://himanshu-visioninspect-ai.streamlit.app
+
+
 # 🚀 Features
 
 - 🔍 Surface Defect Detection using PatchCore-inspired anomaly detection
