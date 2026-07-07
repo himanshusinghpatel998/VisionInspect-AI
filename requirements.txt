@@ -11,3 +11,4 @@ streamlit
 tqdm
 pandas
 faiss-cpu
+python-dotenv==1.2.2
